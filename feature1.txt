@@ -1,6 +1,0 @@
-feature 1 pokucaj 1
-
-feature 1 kolega je edito
-
-
-ovo je spremno za main
